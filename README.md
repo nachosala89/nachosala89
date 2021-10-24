@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Nacho Sala 👋
 
-<!--
-**nachosala89/nachosala89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm graduated as an Information System Engineer. 
+# Currently I'm improving my skillset as Full-Stack Developer in [Microverse](https://www.microverse.org/).
 
-Here are some ideas to get you started:
+- 📖 Javascript / React / Python / Django / MySQL / Java / HTML / CSS / Bootstrap 
+- 🇦🇷 I'm from Argentina (yes, the land of Messi and Maradona).
+- 💻 I really enjoy doing coding challenges and collaborating in projects with different partners.
+- Hobbies:
+-- 🎸 Electric guitar
+-- 🥋 BJJ
+-- 🚴 Biking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently available for a new job! 💪
+
+[![Nacho's GitHub stats](https://github-readme-stats.vercel.app/api?username=nachosala89&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachosala89&langs_count=4&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
