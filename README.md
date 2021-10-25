@@ -7,12 +7,12 @@
 * 🇦🇷 I'm from Argentina (yes, the land of Messi and Maradona).
 * 💻 I really enjoy doing coding challenges and collaborating in projects with others.
 * **Languages**: 
-  - Spanish 
-  - English
-  - German
+  - 🇪🇸 Spanish 
+  - 🇬🇧 English
+  - 🇩🇪 German
 * **Hobbies**: 
-  -🎸 Electric guitar 
-  -🥋 BJJ 
+  - 🎸 Electric guitar 
+  - 🥋 BJJ 
   - 🚴 Biking
 
 Currently available for a new job! 💪
