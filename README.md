@@ -5,7 +5,7 @@
 
 - 📖 Javascript / React / Python / Django / MySQL / Java / HTML / CSS / Bootstrap 
 - 🇦🇷 I'm from Argentina (yes, the land of Messi and Maradona).
-- 💻 I really enjoy doing coding challenges and collaborating in projects with different partners.
+- 💻 I really enjoy doing coding challenges and collaborating in projects with others.
 - **Languages**: Spanish, English and German
 - **Hobbies**: 🎸 Electric guitar 🥋 BJJ 🚴 Biking
 
