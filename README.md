@@ -3,7 +3,7 @@
 ### I'm graduated as an Information System Engineer. 
 ### Currently I'm improving my skillset as Full-Stack Developer in [Microverse](https://www.microverse.org/).
 
-* 📖 Javascript / React / Python / Django / MySQL / Java / HTML / CSS / Bootstrap 
+* 📖 Javascript / React / Python / Django / MySQL / Java 
 * 🇦🇷 I'm from Argentina (yes, the land of Messi and Maradona).
 * 💻 I really enjoy doing coding challenges and collaborating in projects with others.
 * **Languages**: 
