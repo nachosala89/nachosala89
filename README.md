@@ -1,7 +1,6 @@
 # Hi there, I'm Nacho Sala 👋
 
-### I'm graduated as an Information System Engineer. 
-### Currently I'm improving my skillset as Full-Stack Developer in [Microverse](https://www.microverse.org/).
+### Full-Stack Developer with a Degree in Information Systems Engineering. 
 
 * 📖 Javascript / React / Python / Django / Ruby / Rails / Java / PostgreSQL
 * 🇦🇷 I'm from Argentina.
